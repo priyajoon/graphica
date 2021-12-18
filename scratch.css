@@ -65,3 +65,66 @@ h1{
     font-size: x-large;
     text-align: center;
 }
+.north{
+
+}
+
+
+h2{
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+.south{
+    background-color: white;
+    border-radius: 40px;
+    display:-moz-inline-box;
+}
+.text2{
+    text-align: center;
+    font-size: medium;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.courosel-item active{
+    display: inline-flexbox;
+    image-rendering: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+h3{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    font-family: 'Josefin Sans', sans-serif ;
+}
+.text3{
+    padding-left: 30px;
+    padding-right: 70px;
+    font-family:'Source Serif Pro', serif ;
+    font-size: medium;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+}
